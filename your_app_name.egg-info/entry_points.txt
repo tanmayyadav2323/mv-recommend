@@ -1,0 +1,2 @@
+[console_scripts]
+your-app-name = your_module_name:main
