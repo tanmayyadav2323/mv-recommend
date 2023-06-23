@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-import pandas as pd
+import pickle
 
 
 def fetch_poster(movie_id):
